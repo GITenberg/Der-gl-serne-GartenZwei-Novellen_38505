@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39503'
     url: http://www.gutenberg.org/2009/agents/39503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38505#Der-gl-serne-GartenZwei-Novellen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-01-06'
 gutenberg_type: Text
